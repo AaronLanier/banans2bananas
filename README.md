@@ -34,5 +34,5 @@ B-2-B is a price comparison app that shows you the cheapest price for the items 
 
 
 - - - - - - - - - - - - - - - - - -
-* Here is a link to the deployed version on Heroku. [https://burger-eat-da-burger.herokuapp.com/](https://burger-eat-da-burger.herokuapp.com/)
+* Here is a link to the deployed version on Heroku. [http://banana2banana.herokuapp.com/](http://banana2banana.herokuapp.com/)
 
